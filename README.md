@@ -4,4 +4,4 @@ Basic real time chat application with;
 * socket.io
 * ExpressJS
 
-
+the command for running the application is: node index.js
